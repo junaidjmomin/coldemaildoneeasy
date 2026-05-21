@@ -1,0 +1,16 @@
+{
+  "professors": [
+    {
+      "name": "Dr. Example Professor",
+      "email": "professor@example.edu",
+      "university": "Example University",
+      "department": "Computer Science & Engineering",
+      "research_interests": [
+        "post-quantum cryptography",
+        "secure systems"
+      ],
+      "past_work": "Short factual summary of prior research, key papers, or lab work.",
+      "additional_details": "Lab, chair/professorship, website, or contact notes."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"""Professor internship email generator."""
